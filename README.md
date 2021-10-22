@@ -7,4 +7,4 @@ I have implemented a python code to the blender 3D software and started to gener
 ### Different Traits Possible
 ![image](https://user-images.githubusercontent.com/87076049/138468217-ffdf482c-c0c5-45a1-b837-0eba1c04a2ae.jpeg)
 
-
+Considering all the different characteristics there can be over 1 million vision-heads possible but as of now I am keeping the numbers limited to 5555 so that the rarity can we maintained.
