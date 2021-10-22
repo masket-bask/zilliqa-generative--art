@@ -5,3 +5,6 @@ Zilliqa tends to be a network with a capability of having highest number of tran
 I have implemented a python code to the blender 3D software and started to generate a collection of generative NFTs in which all the people have different traits. Apart from these vision-heads belonging from different diversity but they all have the same vision and the seek the future in Zilliqa.
 
 ## Different Traits Possible
+
+![example](./assets/Vision-head traits.jpg)
+
