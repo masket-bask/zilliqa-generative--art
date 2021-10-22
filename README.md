@@ -6,5 +6,5 @@ I have implemented a python code to the blender 3D software and started to gener
 
 ## Different Traits Possible
 
-![example](./assets/Vision-head traits.jpg)
+![example](./assets/Vision-head_traits.jpg)
 
